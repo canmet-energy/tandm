@@ -394,4 +394,3 @@ Maya Papineau and Ekaterina Alekhanova from Carleton University supported the CE
 
 We welcome your input on improving and extending the TaNDM method. Further to logging issues for improvements to this repository via the Github issues function please contact Jessica Webster at jessica.webster@nrcan-rncan.gc.ca or Ken Porter at Kenneth.porter@gov.bc.ca 
 
-Maya Papineau and Ekaterina 

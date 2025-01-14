@@ -1,0 +1,53 @@
+Occupancy,Major Category,Category,Sub-category
+CABINS,Commercial Small/Medium Industrial,Accommodation,Accommodation - other
+CAMP SITES,Commercial Small/Medium Industrial,Accommodation,Accommodation - other
+RV SITES,Commercial Small/Medium Industrial,Accommodation,Accommodation - other
+BIG BOX,Commercial Small/Medium Industrial,Retail,Big box
+INDEPENDENT LIVING,Commercial Small/Medium Industrial,Healthcare,Care facility
+LICENSED CARE,Commercial Small/Medium Industrial,Healthcare,Care facility
+FLEX  WAREHOUSE,Commercial Small/Medium Industrial,Warehouse,Closed warehouse
+LAND-STORAGE,Commercial Small/Medium Industrial,Warehouse,Closed warehouse
+MINI STORAGE WAREHOUSE,Commercial Small/Medium Industrial,Warehouse,Closed warehouse
+STRATA FLEX WAREHOUSE,Commercial Small/Medium Industrial,Warehouse,Closed warehouse
+STRATA WAREHOUSE,Commercial Small/Medium Industrial,Warehouse,Closed warehouse
+WAREHOUSE,Commercial Small/Medium Industrial,Warehouse,Closed warehouse
+FAST FOOD RESTAURANT,Commercial Small/Medium Industrial,Restaurant/Pub,Fast food
+FOOD MARKET,Commercial Small/Medium Industrial,Retail,Food - retail
+APT-CONCRETE HI-RISE,Residential,Multi-family,Hi-rise apartment
+APT-WITH ELEVATOR,Residential,Multi-family,Hi-rise apartment
+CO-OP APT - HI -RISE,Residential,Multi-family,Hi-rise apartment
+STRATA APT - HI-RISE,Residential,Multi-family,Hi-rise apartment
+HOTEL - FULL SERVICE,Commercial Small/Medium Industrial,Accommodation,Hotel
+APT-WALK-UP,Residential,Multi-family,Low-rise apartment
+CO-OP APT - LOW RISE,Residential,Multi-family,Low-rise apartment
+STRATA APT - LOW RISE,Residential,Multi-family,Low-rise apartment
+HOTEL - ECONOMY,Commercial Small/Medium Industrial,Accommodation,Medium hotel/motel
+HOTEL - EXTENTED STAY,Commercial Small/Medium Industrial,Accommodation,Medium hotel/motel
+HOTEL - LIMITED SERVICE WITH F&B,Commercial Small/Medium Industrial,Accommodation,Medium hotel/motel
+HOTEL - LIMITED SERVICE WITHOUT F&B,Commercial Small/Medium Industrial,Accommodation,Medium hotel/motel
+MOTEL,Commercial Small/Medium Industrial,Accommodation,Medium hotel/motel
+STRATA HOTEL,Commercial Small/Medium Industrial,Accommodation,Medium hotel/motel
+APT-OVER COMMERCIAL,Residential,Mixed-use,Mixed-use residential
+MANUFACTURED HOME PARK,Residential,Single family,Moveable dwelling
+CLASS A OFFICE,Commercial Small/Medium Industrial,Office,Office
+CLASS B OFFICE,Commercial Small/Medium Industrial,Office,Office
+CLASS C OFFICE,Commercial Small/Medium Industrial,Office,Office
+CLASS D OFFICE,Commercial Small/Medium Industrial,Office,Office
+STRATA OFFICE,Commercial Small/Medium Industrial,Office,Office
+BANK,Commercial Small/Medium Industrial,Office,Office
+LARGE MARINA,Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation"
+MISCELLANEOUS,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional
+SPECIAL PURPOSE BUILDINGS,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional
+THEATRE (LIVE AND CINEMA),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - information and cultural services
+RESTAURANT /PUB,Commercial Small/Medium Industrial,Restaurant/Pub,Restaurant/Pub
+"GARAGE,SERVICE",Commercial Small/Medium Industrial,Retail,Retail - other
+RETAIL CONVENIENCE,Commercial Small/Medium Industrial,Retail,Retail strip
+RETAIL GENERAL,Commercial Small/Medium Industrial,Retail,Retail strip
+STRATA RETAIL GENERAL,Commercial Small/Medium Industrial,Retail,Retail strip
+AUXILIARY SHOPPING CENTRE OCCUPANCIES,Commercial Small/Medium Industrial,Retail,Shopping centre
+COMMUNITY SHOPPING CENTRE,Commercial Small/Medium Industrial,Retail,Shopping centre
+NEIGH SHOPPING CENTRE,Commercial Small/Medium Industrial,Retail,Shopping centre
+REGIONAL SHOPPING CENTRE,Commercial Small/Medium Industrial,Retail,Shopping centre
+APT TOWNHOUSE OR ROW HOUSE,Residential,Multi-family,"Single attached - duplex, row, townhouse"
+STRATA TOWNHOUSE,Residential,Multi-family,"Single attached - duplex, row, townhouse"
+CO-OP TOWNHOUSE,Residential,Multi-family,"Single attached - duplex, row, townhouse"

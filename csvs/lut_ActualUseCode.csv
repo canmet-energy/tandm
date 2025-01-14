@@ -1,0 +1,209 @@
+PrimAUC,ActualUseDescription,Major Category,Category,Sub-category,BCBCOccupancyCode,Part3_Part9,CEEMap Archetype
+236,Campground (Commercial),Commercial Small/Medium Industrial,Accommodation,Accommodation - other,C,Part 3,No CEEMap Archetype
+237,Bed & Breakfast Operation 4 Or More Units,Commercial Small/Medium Industrial,Accommodation,Accommodation - other,C,Part 3,No CEEMap Archetype
+238,Seasonal Resort,Commercial Small/Medium Industrial,Accommodation,Accommodation - other,C,Part 3,No CEEMap Archetype
+239,Bed & Breakfast Operation Less Than 4 Units,Commercial Small/Medium Industrial,Accommodation,Accommodation - other,C,Part 3,No CEEMap Archetype
+205,Big Box,Commercial Small/Medium Industrial,Retail,Big box,E,Part 3,No CEEMap Archetype
+212,Department Store - Stand Alone,Commercial Small/Medium Industrial,Retail,Big box,E,Part 3,No CEEMap Archetype
+284,"Seniors Strata - Care, Independent or Assisted Living",Commercial Small/Medium Industrial,Healthcare,Care facility,B,Part 3,No CEEMap Archetype
+285,Seniors Licensed Care,Commercial Small/Medium Industrial,Healthcare,Care facility,B,Part 3,No CEEMap Archetype
+286,Seniors Independent & Assisted Living,Commercial Small/Medium Industrial,Healthcare,Care facility,B,Part 3,No CEEMap Archetype
+287,Group Home,Commercial Small/Medium Industrial,Healthcare,Care facility,B,Part 3,No CEEMap Archetype
+31,Strata-Lot Self Storage-Res Use,Commercial Small/Medium Industrial,Warehouse,Closed warehouse,F,Part 3,No CEEMap Archetype
+218,Strata-Lot Self Storage-Business Use,Commercial Small/Medium Industrial,Warehouse,Closed warehouse,F,Part 3,No CEEMap Archetype
+273,Storage & Warehousing (Closed),Commercial Small/Medium Industrial,Warehouse,Closed warehouse,F,Part 3,No CEEMap Archetype
+275,Self Storage,Commercial Small/Medium Industrial,Warehouse,Closed warehouse,F,Part 3,No CEEMap Archetype
+650,"Schools & Universities, College Or Technical Schools",Commercial Small/Medium Industrial,Education,Education,A,Part 3,No CEEMap Archetype
+257,Fast Food Restaurants,Commercial Small/Medium Industrial,Restaurant/Pub,Fast food,A,Part 3,No CEEMap Archetype
+258,Drive-In Restaurant,Commercial Small/Medium Industrial,Restaurant/Pub,Fast food,A,Part 3,No CEEMap Archetype
+215,Food Market,Commercial Small/Medium Industrial,Retail,Food - retail,E,Part 3,No CEEMap Archetype
+54,Multi-Family (High-Rise),Residential,Multi-family,Hi-rise apartment,C,Part 9,No CEEMap Archetype
+59,Stratified Rental Apartment (Hi-Rise Construction),Residential,Multi-family,Hi-rise apartment,C,Part 9,No CEEMap Archetype
+640,Hospitals (Nursing Homes Refer To Commercial Section).,Commercial Small/Medium Industrial,Healthcare,Hospital,B,Part 3,No CEEMap Archetype
+230,Hotel,Commercial Small/Medium Industrial,Accommodation,Hotel,C,Part 3,No CEEMap Archetype
+400,Fruit & Vegetable,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+401,Industrial (Vacant),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+402,Meat & Poultry,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+403,Sea Food,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+404,Dairy Products,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+405,Bakery & Biscuit Manufacturing,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+406,Confectionery Manufacturing & Sugar Processing,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+407,Soft Drink Bottling,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+408,Brewery,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+409,Winery,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+410,Distillery,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+412,Feed Manufacturing,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+413,Flour Mills & Breakfast Cereal Products,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+414,Miscellaneous (Food Processing),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+415,Sawmills,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+416,Planer Mills (When Separate From Sawmill),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+417,Plywood Mills,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+418,Shingle Mills,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+419,Sash & Door,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+420,Lumber Remanufacturing (When Separate From Sawmill),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+421,Vacant,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+424,"Pulp & Paper Mills (Including Fine Paper,",Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+425,"Paper Box, Paper Bag, And Other Paper Remanufacturing.",Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+426,"Logging Operations, Incl Log Storage",Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+427,Logging Roads & Bridges,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+428,Improved,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+429,Miscellaneous (Forest And Allied Industry),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+430,Petroleum And Gas Exploration (Including Oil And Gas,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+431,Production Pipelines,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+432,Oil Refining Plants,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+433,Gas Scrubbing Plants,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+434,Petroleum Bulk Plants,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+435,Liquid Gas Storage Plants,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+436,Oil & Gas Transportation Pipelines,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+437,Oil & Gas Pumping & Compressor Stations,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+438,Miscellaneous (Petroleum Industry),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+440,Mining (Coal),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+442,Mining & Milling (Metallic),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+443,"Mining & Milling Non-Metallic (Including Asbestos,",Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+444,Smelting & Refining,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+445,Sand & Gravel (Vacant and Improved),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+446,Cement Plants,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+447,Asphalt Plants,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+448,Concrete Mixing Plants,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+449,Miscellaneous (Mining And Allied Industries),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+450,Rubber & Plastics Products,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+452,Leather Industry,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+454,Textiles & Knitting Mills,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+456,Clothing Industry,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+458,Furniture & Fixtures Industry,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+460,Printing & Publishing Industry,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+462,"Primary Metal Industries (Iron & Steel Mills,",Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+464,Metal Fabricating Industries,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+466,Machinery Manufacturing (Excluding Electrical),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+468,"Transportation Equipment Industry (Including Aircraft,",Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+470,Electrical & Electronics Products Industry,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+472,Chemical & Chemical Products Industries,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+474,Miscellaneous & (*Industrial Other),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+476,Grain Elevators,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+478,Docks & Wharves,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+480,Shipyards,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+488,Strata-Lot Self Storage-*Industrial Use,Industrial,Warehouse,Industrial,F,Part 3,No CEEMap Archetype
+490,Parking Lot Only (Paved Or Gravel),Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+500,Railway,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+505,Marine & Navigational Facilities (Includes Ferry,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+550,Gas Distribution Systems,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+580,Electrical Power Systems (Including Non-Utility,Industrial,Industrial,Industrial,F,Part 3,No CEEMap Archetype
+30,Strata-Lot Residence (Condominium),Residential,Multi-family,Low-rise apartment,C,Part 9,MU
+50,Multi-Family (Apartment Block),Residential,Multi-family,Low-rise apartment,C,Part 9,MU
+51,Multi-Family (Vacant),Residential,Multi-family,Low-rise apartment,C,Part 9,MU
+52,Multi-Family (Garden Apartment & Row Housing),Residential,Multi-family,Low-rise apartment,C,Part 9,MU
+53,Multi-Family (Conversion),Residential,Multi-family,Low-rise apartment,C,Part 9,MU
+56,Multi-Family (Residential Hotel),Residential,Multi-family,Low-rise apartment,C,Part 9,MU
+58,Stratified Rental Apartment (Frame Construction),Residential,Multi-family,Low-rise apartment,C,Part 9,MU
+232,Motel & Auto Court,Commercial Small/Medium Industrial,Accommodation,Medium hotel/motel,C,Part 3,No CEEMap Archetype
+233,Individual Strata Lot (Hotel/Motel),Commercial Small/Medium Industrial,Accommodation,Medium hotel/motel,C,Part 3,No CEEMap Archetype
+55,Multi-Family (Minimal Commercial),Residential,Mixed-use,exit,C,Part 9,No CEEMap Archetype
+202,Store(S) And Living Quarters,Residential,Mixed-use,Mixed-use,C,Part 9,No CEEMap Archetype
+203,Stores And/Or Offices With Apartments,Residential,Mixed-use,Mixed-use,C,Part 9,No CEEMap Archetype
+37,Manufactured Home (Within Manufactured Home Park),Residential,Single family,Moveable dwelling,C,Part 9,MH
+38,Manufactured Home (Not In Manufactured Home Park),Residential,Single family,Moveable dwelling,C,Part 9,MH
+63,2 Acres Or More (Manufactured Home),Residential,Single family,Moveable dwelling,C,Part 9,MH
+234,Manufactured Home Park,Residential,Single family,Moveable dwelling,C,Part 9,MH
+204,Store(S) And Offices,Commercial Small/Medium Industrial,Office,Office,D,Part 3,No CEEMap Archetype
+208,Office Building (Primary Use),Commercial Small/Medium Industrial,Office,Office,D,Part 3,No CEEMap Archetype
+210,Bank,Commercial Small/Medium Industrial,Office,Office,D,Part 3,No CEEMap Archetype
+620,"Government Buildings (Includes Courthouse, Post Office",Commercial Small/Medium Industrial,Office,Office,D,Part 3,No CEEMap Archetype
+632,Ranger Station,Commercial Small/Medium Industrial,Office,Office,D,Part 3,No CEEMap Archetype
+634,Government Research Centres (Includes Nurseries &,Commercial Small/Medium Industrial,Office,Office,D,Part 3,No CEEMap Archetype
+272,Storage & Warehousing (Open),Commercial Small/Medium Industrial,Warehouse,Open warehouse,F,Part 3,No CEEMap Archetype
+250,Theatre Buildings,Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+252,Drive-In Theatres,Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+266,Bowling Alley,Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+270,"Hall (Community, Lodge, Club, Etc.)",Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+600,Recreational & Cultural Buildings (Includes Curling,Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+601,"Civic, Institutional & Recreational (Vacant)",Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+610,Parks & Playing Fields,Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+612,Golf Courses (Includes Public & Private),Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+614,"Campgrounds (Includes Government Campgrounds, Ymca &",Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+615,Government Reserves (Includes Greenbelts (Not In Farm,Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+654,"Recreational Clubs, Ski Hills",Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+660,Land Classified Recreational Used For,Commercial Small/Medium Industrial,Other - commercial/institutional,"Other - arts, entertainment and recreation",A,Part 3,No CEEMap Archetype
+201,Vacant IC&I,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+216,Commercial Strata-Lot,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+217,Air Space Title,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+219,Strata Lot (Parking Commercial),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+260,"Parking (Lot Only, Paved Or Gravel)",Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+262,Parking Garage,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+276,Lumber Yard Or Building Supplies,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+280,Marine Facilities (Marina),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+288,Sign Or Billboard Only,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+290,Commercial - from BCA categorization,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+300,Stratified Operational Facility Areas,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+510,"Bus Company, Including Street Railway",Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+515,"Airports, Heliports, Etc.",Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+520,Telephone,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+525,Fiberoptic Conduit,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+530,Telecommunications (Other Than Telephone),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+540,Community Antenna Television (Cablevision),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+560,Water Distribution Systems,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+570,Irrigation Systems,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+590,Miscellaneous (Transportation & Communication),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+622,Alrt,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+623,Alrt/Mixed Use,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+625,"Garbage Dumps, Sanitary Fills, Sewer Lagoons, Etc.",Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+630,Works Yards,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+670,Institutional - from BCA categorization,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - commercial/institutional,A,Part 3,No CEEMap Archetype
+110,Grain & Forage,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+111,Grain & Forage (Vacant),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+120,Vegetable & Truck,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+121,Vegetable & Truck (Vacant),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+130,Tree Fruits,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+131,Tree Fruits (Vacant),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+140,Small Fruits,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+141,Small fruits (Vacant),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+150,Beef,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+151,Beef (Vacant),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+160,Dairy,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+161,Dairy (Vacant),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+170,Poultry,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+171,Poultry (Vacant),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+180,Mixed,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+181,Mixed (Vacant),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+190,Other,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+191,Other (Vacant),Commercial Small/Medium Industrial,Other - commercial/institutional,Other - farm,N/A,Part 3,No CEEMap Archetype
+642,Cemeteries (Includes Public Or Private).,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - information and cultural services,A,Part 3,No CEEMap Archetype
+652,Churches & Bible Schools,Commercial Small/Medium Industrial,Other - commercial/institutional,Other - information and cultural services,A,Part 3,No CEEMap Archetype
+1,Vacant Residential Less Than 2 Acres,Residential,Other - residential,Other - residential,N/A,Part 9,No CEEMap Archetype
+2,Property Subject To Section 19(8),Residential,Other - residential,Other - residential,N/A,Part 9,No CEEMap Archetype
+20,Residential Outbuilding Only,Residential,Other - residential,Other - residential,N/A,Part 9,No CEEMap Archetype
+29,Strata Lot (Parking Residential),Residential,Other - residential,Other - residential,N/A,Part 9,No CEEMap Archetype
+43,"Parking (Lot Only, Paved Or Gravel)",Residential,Other - residential,Other - residential,N/A,Part 9,No CEEMap Archetype
+61,2 Acres Or More (Vacant),Residential,Other - residential,Other - residential,N/A,Part 9,No CEEMap Archetype
+70,2 Acres Or More (Outbuilding),Residential,Other - residential,Other - residential,N/A,Part 9,No CEEMap Archetype
+274,Storage & Warehousing (Cold),Commercial Small/Medium Industrial,Warehouse,Refrigerated warehouse,F,Part 3,No CEEMap Archetype
+254,Neighbourhood Pub,Commercial Small/Medium Industrial,Restaurant/Pub,Restaurant/Pub,A,Part 3,No CEEMap Archetype
+256,Restaurant Only,Commercial Small/Medium Industrial,Restaurant/Pub,Restaurant/Pub,A,Part 3,No CEEMap Archetype
+200,Store(S) And Service Commercial,Commercial Small/Medium Industrial,Retail,Retail - other,E,Part 3,No CEEMap Archetype
+206,Neighbourhood Store,Commercial Small/Medium Industrial,Retail,Retail - other,E,Part 3,No CEEMap Archetype
+240,Greenhouses And Nurseries (Not Farm Class),Commercial Small/Medium Industrial,Retail,Retail - other,E,Part 3,No CEEMap Archetype
+214,Retail Strip,Commercial Small/Medium Industrial,Retail,Retail strip,E,Part 3,No CEEMap Archetype
+220,Automobile Dealership,Commercial Small/Medium Industrial,Retail,Retail strip,E,Part 3,No CEEMap Archetype
+222,Service Station,Commercial Small/Medium Industrial,Retail,Retail strip,E,Part 3,No CEEMap Archetype
+224,Self-Serve Service Station,Commercial Small/Medium Industrial,Retail,Retail strip,E,Part 3,No CEEMap Archetype
+225,Convenience Store/Service Station,Commercial Small/Medium Industrial,Retail,Retail strip,E,Part 3,No CEEMap Archetype
+226,Car Wash,Commercial Small/Medium Industrial,Retail,Retail strip,E,Part 3,No CEEMap Archetype
+227,Automobile Sales (Lot),Commercial Small/Medium Industrial,Retail,Retail strip,E,Part 3,No CEEMap Archetype
+228,"Automobile Paint Shop, Garages, Etc.",Commercial Small/Medium Industrial,Retail,Retail strip,E,Part 3,No CEEMap Archetype
+40,Seasonal Dwelling,Residential,Single family,Seasonal dwelling,C,Part 9,No CEEMap Archetype
+42,Strata-Lot Seasonal Dwelling (Condominium),Residential,Single family,Seasonal dwelling,C,Part 9,No CEEMap Archetype
+62,2 Acres Or More (Seasonal Dwelling),Residential,Single family,Seasonal dwelling,C,Part 9,No CEEMap Archetype
+209,Shopping Centre (Neighbourhood),Commercial Small/Medium Industrial,Retail,Shopping centre,E,Part 3,No CEEMap Archetype
+211,Shopping Centre (Community),Commercial Small/Medium Industrial,Retail,Shopping centre,E,Part 3,No CEEMap Archetype
+213,Shopping Centre (Regional),Commercial Small/Medium Industrial,Retail,Shopping centre,E,Part 3,No CEEMap Archetype
+33,Duplex (/Suo Front),Residential,Multi-family,"Single attached - duplex, row, townhouse",C,Part 9,DR
+34,Duplex Up & Down (/Suo Bottom),Residential,Multi-family,"Single attached - duplex, row, townhouse",C,Part 9,DR
+35,Duplex Single Unit Ownership (Side),Residential,Multi-family,"Single attached - duplex, row, townhouse",C,Part 9,DR
+36,Duplex Single Unit Ownership (Back),Residential,Multi-family,"Single attached - duplex, row, townhouse",C,Part 9,DR
+39,Row Housing (Single Unit Ownership),Residential,Multi-family,"Single attached - duplex, row, townhouse",C,Part 9,DR
+41,Duplex Single Unit Ownership (Top),Residential,Multi-family,"Single attached - duplex, row, townhouse",C,Part 9,DR
+47,Triplex,Residential,Multi-family,"Single attached - duplex, row, townhouse",C,Part 9,DR
+49,Fourplex,Residential,Multi-family,"Single attached - duplex, row, townhouse",C,Part 9,DR
+57,Stratified Rental Townhouse,Residential,Multi-family,"Single attached - duplex, row, townhouse",C,Part 9,DR
+0,Single Family Dwelling,Residential,Single family,Single detached,C,Part 9,SD
+60,"2 Acres Or More (Single Family Dwelling, Duplex)",Residential,Single family,Single detached,C,Part 9,SD
+32,Residential Dwelling with Suite,Residential,Single family,Single detached with suite,C,Part 9,SD

@@ -361,7 +361,7 @@ Sample histograms are shown here to illustrate the outputs generated when measur
 
 The histogram below is for electricity use in single detached dwellings built in 1977 and prior in Kelowna, B.C. The X axis reflect annual energy in kilowatt hours (kWh/yr) and the Y axes are the same as the natural gas histogram above, reflecting unnits and electric meter counts on the left and right-hand sides respectively. A bi-modal distribution can also be seen in the modelled data. For electricity this reflects differences in dwellings that are assumed to have electric resistence heating (the right-hand side of the bimodal distribution) and those using electricity for lighting, appliances and fans with space heating coming from natural gas (the left-hand side of the bi-modal distribution).  
 
-![image info](https://github.com/canmet-energy/privatetandm/blob/main/images/K-S_SD_pre1977_NG.PNG)
+![image info](https://github.com/canmet-energy/tandm/blob/main/images/K-S_SD_pre1977_NG.PNG)
 
 Using this completed spreadsheet as an input the Python script was then used to run the K-S test, calculated per dwelling type, vintage and energy source based on the distributions of measured and modelled data.
 [K-S.py](https://github.com/python/K-S.py) 

@@ -345,7 +345,7 @@ Each dwelling in the CEE Map model contained a Kelowna ID (KID) unique numeric i
 
 The FME workspace developed by the utility for this can be found below:
 
-![ image info](images/FME4_CEEMapDwellings_to_Gas_Electric_Meters.PNG)
+![ image info](https://github.com/canmet-energy/tandm/blob/main/images/K-S_Result_SD_pre-1977Electric.PNG)
 
 [4_CEEMap_Dwellings_Attached_to_Meters.fmw](https://github.com/canmet-energy/privatetandm/blob/main/fme/4_CEEMap_Dwellings_Attached_to_Meters.fmw)
 

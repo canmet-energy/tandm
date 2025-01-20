@@ -345,7 +345,7 @@ Each dwelling in the CEE Map model contained a Kelowna ID (KID) unique numeric i
 
 The FME workspace developed by the utility for this can be found below:
 
-![ image info](https://github.com/canmet-energy/tandm/blob/main/images/K-S_Result_SD_pre-1977Electric.PNG)
+![ image info](https://github.com/canmet-energy/tandm/blob/main/images/FME4_CEEMapDwellings_to_Gas_Electric_Meters.PNG)
 
 [4_CEEMap_Dwellings_Attached_to_Meters.fmw](https://github.com/canmet-energy/privatetandm/blob/main/fme/4_CEEMap_Dwellings_Attached_to_Meters.fmw)
 
@@ -357,7 +357,7 @@ A literature review was completed, and the K-S statistical test was chosen. A [s
 
 Sample histograms are shown here to illustrate the outputs generated when measured and modelled data is input into the spreadsheet template. The histogram immediately below is for total annual modelled and measured natural gas use, for the 2021 year in single detached dwellings built in 1977 and before in Kelowna, B.C. The x-axis gives the gigajoules per year (GJ/yr). The left-hand side Y axis gives the dwelling unit counts as per BC Assessment and City of Kelowna single detached dwelling units for that vintage. The right-hand side y axis gives the corresponding gas meter count. Of note is that modelled data is reflected in blue bars and measured data is reflected in red bars. The modelled natural gas consumption in blue corresponds to dwelling units on the left and the measured natural gas consumption in red correspond to meter counts, also referred to as customers, on the right. It may be observed in this sample histogram that the modelled data has a bi-modal distribution with consumption skewing higher. Conversely, the red bars show measured consumption for more meters skewing lower and having a normal, not bi-modal, distribution.  
 
-![image info](https://github.com/canmet-energy/privatetandm/blob/main/images/K-S_Result_SD_pre-1977Electric.PNG)
+![image info](https://github.com/canmet-energy/tandm/blob/main/images/K-S_Result_SD_pre-1977Electric.PNG)
 
 The histogram below is for electricity use in single detached dwellings built in 1977 and prior in Kelowna, B.C. The X axis reflect annual energy in kilowatt hours (kWh/yr) and the Y axes are the same as the natural gas histogram above, reflecting unnits and electric meter counts on the left and right-hand sides respectively. A bi-modal distribution can also be seen in the modelled data. For electricity this reflects differences in dwellings that are assumed to have electric resistence heating (the right-hand side of the bimodal distribution) and those using electricity for lighting, appliances and fans with space heating coming from natural gas (the left-hand side of the bi-modal distribution).  
 

@@ -108,7 +108,7 @@ A requirement of the TaNDM Steering Committee was to enhance the method by repor
 
 To support the model validation exercise, vintages in the CEE Map model were also used to group building energy reporting by vintage year-built range in TaNDM. These vintages were 1977 and prior, 1978-1995, 1996-2012, and 2013 and later, as depicted in this matrix:
 
-![image info](https://github.com/canmet-energy/privatetandm/blob/main/images/VintageMatrix.PNG)
+![image info](https://github.com/canmet-energy/tandm/blob/main/images/VintageMatrix.PNG)
 
 
 Vintages were assigned to each parcel based on building year built, operationalized via the Enhanced_BIR.py python script, described below.

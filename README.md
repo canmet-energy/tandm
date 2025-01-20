@@ -281,7 +281,7 @@ And the second for natural gas:
 
 ![image info](https://github.com/canmet-energy/tandm/blob/main/images/FME3b_GJ_Aggregation.PNG)
 
-- **[3_KwH_GJ_Meter_to_Report_Aggregation.fmw](https://github.com/canmet-energy/privatetandm/blob/main/fme/3_KwH_GJ_Meter_to_Report_Aggregation.fmw)
+- **[3_KwH_GJ_Meter_to_Report_Aggregation.fmw](https://github.com/canmet-energy/tandm/blob/main/fme/3_KwH_GJ_Meter_to_Report_Aggregation.fmw)
 
 
 

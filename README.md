@@ -38,7 +38,7 @@ The TaNDM method is interdisciplinary, drawing on business analysis, building sc
 - **Validation Exercise Method and Templates**: Filter building stock data to scope of stock model and connect meters, statistical validation exercise FME and Excel templates and Python script
 
 
-A list of requirements for software environments for ArcGIS, Feature Manipulation Engine (FME) and Python packages can be found [here](https://github.com/canmet-energy/privatetandm/blob/main/TaNDM_Requirements.md).
+A list of requirements for software environments for ArcGIS, Feature Manipulation Engine (FME) and Python packages can be found [here](https://github.com/canmet-energy/tandm/blob/main/TaNDM_Requirements.md).
 
 A list of acronyms related to TaNDM development and implementation in B.C. are as follows:
 ![image info](images/AcronymsFinalFinal.PNG)
@@ -135,13 +135,13 @@ The TaNDM Building Category Matrix [.xlsx](csvs/BuildingCategoryMatrix_forGithub
 
 Additional lookup tables to support correct assignment of buildings to Actual Use Codes, Code Parts and Occupancy Codes are available here:
 
-* [Actual Use Code .CSV](https://github.com/canmet-energy/privatetandm/blob/main/csvs/lut_ActualUseCode.csv)
+* [Actual Use Code .CSV](https://github.com/canmet-energy/tandm/blob/main/csvs/lut_ActualUseCode.csv)
 
-* [Manual Class Code .CSV](https://github.com/canmet-energy/privatetandm/blob/main/csvs/lut_ManualClassCode.csv)
+* [Manual Class Code .CSV](https://github.com/canmet-energy/tandm/blob/main/csvs/lut_ManualClassCode.csv)
 
-* [Occupancy .CSV](https://github.com/canmet-energy/privatetandm/blob/main/csvs/lut_occupanyc.csv)
+* [Occupancy .CSV](https://github.com/canmet-energy/tandm/blob/main/csvs/lut_occupanyc.csv)
 
-* [Unit of Measure .CSV](https://github.com/canmet-energy/privatetandm/blob/main/csvs/lut_UnitOfMeasure.csv)
+* [Unit of Measure .CSV](https://github.com/canmet-energy/tandm/blob/main/csvs/lut_UnitOfMeasure.csv)
 
 The assignment of building types within the Building Category Matrix is operationalized via a Python script described below.
 
@@ -150,9 +150,9 @@ Those seeking to implement TaNDM in jurisdictions outside of B.C. or Canada will
 
 ## Building Information Report (BIR)
 
-BC Assessment developed the BIR arising from the original TANDM initiative (2010-2012), and municipal requirements for building attributes relevant for emissions inventory development. The BIR is produced annually and is available to B.C. local governments upon request. See the list of BIR attributes [here](https://github.com/canmet-energy/privatetandm/blob/main/docs/BIR_Data_Element_Description.pdf)
+BC Assessment developed the BIR arising from the original TANDM initiative (2010-2012), and municipal requirements for building attributes relevant for emissions inventory development. The BIR is produced annually and is available to B.C. local governments upon request. See the list of BIR attributes [here](https://github.com/canmet-energy/tandm/blob/main/docs/BIR_Data_Element_Description.pdf)
 
-The above table is also available in [.csv](https://github.com/canmet-energy/privatetandm/blob/main/csvs/BIR_Attributes.csv).
+The above table is also available in [.csv](https://github.com/canmet-energy/tandm/blob/main/csvs/BIR_Attributes.csv).
 
 The BIR must be enhanced with additional attributes and spatialized to support utilities in developing TaNDM energy reports.
 
@@ -347,13 +347,13 @@ The FME workspace developed by the utility for this can be found below:
 
 ![ image info](https://github.com/canmet-energy/tandm/blob/main/images/FME4_CEEMapDwellings_to_Gas_Electric_Meters.PNG)
 
-[4_CEEMap_Dwellings_Attached_to_Meters.fmw](https://github.com/canmet-energy/privatetandm/blob/main/fme/4_CEEMap_Dwellings_Attached_to_Meters.fmw)
+[4_CEEMap_Dwellings_Attached_to_Meters.fmw](https://github.com/canmet-energy/tandm/blob/main/fme/4_CEEMap_Dwellings_Attached_to_Meters.fmw)
 
 
 
 ## Statistical Test to validate model and validation spreadsheet template
 
-A literature review was completed, and the K-S statistical test was chosen. A [spreadsheet template](https://github.com/canmet-energy/privatetandm/blob/main/csvs/Validation_HistogramTemplate_Github.xlsx) was developed to share the modelled data on an individual dwelling unit level with the utility and also provide a location for the individual meter level annual consumption data from the utility to be organized from lowest to highest by dwelling type and vintage. This workbook also dynamically generates histograms to enable visualization of the measured and modelled data by dwelling type, vintage and energy source.
+A literature review was completed, and the K-S statistical test was chosen. A [spreadsheet template](https://github.com/canmet-energy/tandm/blob/main/csvs/Validation_HistogramTemplate_Github2.xlsx) was developed to share the modelled data on an individual dwelling unit level with the utility and also provide a location for the individual meter level annual consumption data from the utility to be organized from lowest to highest by dwelling type and vintage. This workbook also dynamically generates histograms to enable visualization of the measured and modelled data by dwelling type, vintage and energy source.
 
 Sample histograms are shown here to illustrate the outputs generated when measured and modelled data is input into the spreadsheet template. The histogram immediately below is for total annual modelled and measured natural gas use, for the 2021 year in single detached dwellings built in 1977 and before in Kelowna, B.C. The x-axis gives the gigajoules per year (GJ/yr). The left-hand side Y axis gives the dwelling unit counts as per BC Assessment and City of Kelowna single detached dwelling units for that vintage. The right-hand side y axis gives the corresponding gas meter count. Of note is that modelled data is reflected in blue bars and measured data is reflected in red bars. The modelled natural gas consumption in blue corresponds to dwelling units on the left and the measured natural gas consumption in red correspond to meter counts, also referred to as customers, on the right. It may be observed in this sample histogram that the modelled data has a bi-modal distribution with consumption skewing higher. Conversely, the red bars show measured consumption for more meters skewing lower and having a normal, not bi-modal, distribution.  
 

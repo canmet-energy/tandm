@@ -378,6 +378,9 @@ Fit for purpose data for modellers to validate urban building stock energy model
 
 - Assign heating fuel type to the meter
 
+# Using TaNDM in your organization 
+The TaNDM method is made available under an open-source GNU Lesser General Public License V.3 which you may see [here]. You are welcome to download all materials posted here for use in your organization, provided that you give credit or acknowledge NRCan when they are used. You are under no obligation to share result of analysis, of either micro data or aggregated data. The method may be used for internal business purposes and analysis. If however you or your team make improvements to the method, such as extending it to serve new use cases, a requirement of the license is that any improvements also be made publicly available, ideally through being posted here. To do so, create a new branch of this repository, add your content and create a pull request to merge the branches. The merge will be managed by CanmetENERGY-Ottawa. Thanks in advance for your contributions! 
+
 # Acknowledgements
 
 This work was supported by the Program of Energy Research and Development via the Canadian Energy End-use (CEE Map) project (CEO-4006) and the Canada Green Buildings Strategy. TaNDM was originally developed via the Integrated Community Energy Modelling project supported by NRCan’s Clean Energy Fund (0078CE).

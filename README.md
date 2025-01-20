@@ -131,7 +131,7 @@ Another requirement of the TaNDM Steering Committee was that reporting of mixed-
 
 The TaNDM Building Category Matrix [.xlsx](csvs/BuildingCategoryMatrix_forGithub.xlsx) and [.pdf](docs/BuildingCategoryMatrix_forGithub.pdf) supports energy data assignment to buildings at the most granular category level. The matrix, originally developed in 2010-2012 based on the observation that “different organizations categorize buildings differently." It was updated in 2022-24, an important new additional being the B.C. Building Code categories and Building Code Parts 9 and 3.
 
-![image info](https://github.com/canmet-energy/privatetandm/blob/main/images/BuildingCategoryMatrix.PNG)
+![image info](https://github.com/canmet-energy/tandm/blob/main/images/BuildingCategoryMatrix.PNG)
 
 Additional lookup tables to support correct assignment of buildings to Actual Use Codes, Code Parts and Occupancy Codes are available here:
 

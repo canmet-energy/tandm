@@ -87,7 +87,7 @@ Following a business analysis approach, a user story exercise was conducted to i
 
 A swim lane diagram was iteratively developed over the course of the project to promote understanding of the TaNDM demonstration approach. The final version focusing on inventory development can be seen here:
 
-![image info](https://github.com/canmet-energy/privatetandm/blob/main/images/TaNDMWF_InvSept2024.png)
+![image info](https://github.com/canmet-energy/tandm/blob/main/images/TaNDMWF_InvSept2024.png)
 
 
 # Prepare Parcel and Buildings Data

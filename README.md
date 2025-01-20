@@ -364,7 +364,7 @@ The histogram below is for electricity use in single detached dwellings built in
 ![image info](https://github.com/canmet-energy/tandm/blob/main/images/K-S_SD_pre1977_NG.PNG)
 
 Using this completed spreadsheet as an input the Python script was then used to run the K-S test, calculated per dwelling type, vintage and energy source based on the distributions of measured and modelled data.
-[K-S.py](https://github.com/python/K-S.py) 
+[K-S.py](https://github.com/canmet-energy/tandm/blob/main/python/K-S.py) 
 
 Complete results are contained in a peer reviewed journal article, a link to which will be posted here when available.
 

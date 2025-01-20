@@ -275,7 +275,7 @@ The following table describes a step by step approach to achieving aggregated en
 
 In practice, aggregation was automated using FME workspaces. FME supports the generation of multiple output reports in one workspace, through the specification of multiple writers to export data to .XLSX. A third FME workspace is provided to support aggregation to the six energy reports. Note this workspace has two separate workflows, one for electricity:
 
-![image info](https://github.com/canmet-energy/privatetandm/blob/main/images/FME3a_KwH_Aggregation.PNG)
+![image info](https://github.com/canmet-energy/tandm/blob/main/images/FME3a_KwH_Aggregation.PNG)
 
 And the second for natural gas:
 

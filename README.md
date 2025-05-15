@@ -9,7 +9,7 @@ The resulting TaNDM method is a bottom-up spatial and engineering method that li
 
 NRCan is pleased to make the TaNDM method open source and available for download, inspection, and modification under a GNU Lesser General Public License 3.0.  It is posted here on Github as a library of descriptions, tables, templates, diagrams, scripts and supporting documentation. Notably, this Github repository also contains the TaNDM 2021 Inventory Reports for Kelowna laid out in [human-readable/ print-ready](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna2021_INVENTORY_Github_Reading_Printing_Final.xlsx) and [machine-readable/ analysis-ready](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna_2021_INVENTORY_Github_AnalysisReady_Final.xlsx) formats.
 
-Additionally, two peer reviewed journal articles are in press. The pre-print of the TaNDM Inventory article is [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129478) will be posted here when available.
+Additionally, two peer reviewed journal articles are in press. The pre-print of the TaNDM Inventory article is [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129478) The validation article will be posted here when available.
 
 ![image info](images/data_relationships.png)
 

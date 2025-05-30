@@ -39,7 +39,7 @@ The TaNDM method is interdisciplinary, drawing on business analysis, building sc
 - **Validation Exercise Method and Templates**: Filter building stock data to scope of stock model and connect meters, statistical validation exercise FME and Excel templates and Python script
 
 
-A list of requirements for software environments for ArcGIS, Feature Manipulation Engine (FME) and Python packages can be found [here](https://github.com/canmet-energy/tandm/blob/main/TaNDM_Requirements.md).
+A list of requirements for software environments for ArcGIS, Feature Manipulation Engine (FME) and Python packages can be found [here](https://github.com/canmet-energy/tandm/blob/main/TaNDM_Requirements.md). Note: One area for improvement in this repository is to create a requirements.txt file that can be installed by pip to support users to set up the computing environment for data processing. 
 
 A list of acronyms related to TaNDM development and implementation in B.C. are as follows:
 ![image info](images/AcronymsFinalFinal.PNG)
@@ -146,7 +146,7 @@ Additional lookup tables to support correct assignment of buildings to Actual Us
 
 The assignment of building types within the Building Category Matrix is operationalized via a Python script described below.
 
-Those seeking to implement TaNDM in jurisdictions outside of B.C. or Canada will need to develop a Building Category Matrix using buildings data classifications and terminology from their own jurisdiction.
+Those seeking to implement TaNDM in jurisdictions outside of B.C. or Canada will need to develop a Building Category Matrix using buildings data classifications and terminology from their own jurisdiction. Users should expect to update the Python scripts to reflect any changes to the building category matrix. 
 
 
 ## Building Information Report (BIR)
@@ -206,11 +206,11 @@ A Jupyter Notebook is provided [here](python/Enhanced_and_flattened_BIR.ipynb) a
 
 The output of this step is the Enhanced_and_Flattened_BIR.xlsx which is provided to the utility as an input to the FME models that support integration of meter and energy data.
 
-> **Note**: The method described here relies on datasets that belong to organizations other than NRCan. Because the buildings data and energy consumption data at the parcel/building/meter scale are proprietary sample data is not provided in the current deployment of the TaNDM github to preserve commercial confidentiality of the input datasets. It is hoped that sufficient attribute information is provided to enable proponents to work with their own buildings and energy data to execute the scripts and produce EBIR-like data products and energy reports.
+> **Note**: The method described here relies on datasets that belong to organizations other than NRCan. Because the buildings data and energy consumption data at the parcel/building/meter scale are proprietary sample data is not provided in the current deployment of the TaNDM github to preserve commercial confidentiality of the input datasets. It is hoped that sufficient attribute information is provided to enable proponents to work with their own buildings and energy data to execute the scripts and produce EBIR-like data products and energy reports. A sample placeholder dataset may be provided in future to support experimentation with the method. Also note that users should anticipate updating the scripts to reflect building attributes and their nomenclature for the jurisdiction in which it's being implemented. This could include for jurisdictions within B.C. as we have been advised there may be slight naming discrepancies between local governments or over time. 
 
 # Integrate Meter and Energy Data
 
-The integration process used FortisBC’s GIS and parcel polygons, with a one-to-many and many-to-many relationship between parcels, buildings, and meters. Two FME workspaces are provided as examples with images to illustrate the models, to make their design accessible to anyone even non-FME users.
+The integration process used FortisBC’s GIS and parcel polygons, with a one-to-many and many-to-many relationship between parcels, buildings, and meters. Two FME workspaces are provided as examples with images to illustrate the models, to make their design accessible to anyone even non-FME users. It should be noted that because this work involves integrating the parcel, building and utility meter data at the parcel scale, this part of the workflow was done internaly by the utility to adhere to privacy and commercial-confidential requirements. For the TaNDM Kelowna demonstration the FortisBC GIS manager oversaw the work, with work performed by a GIS analyst using a combination of ArcGIS and FME. In the 2010-2012 TaNDM iteration, the integration work was completed in Python (see the historical files above for those scripts). 
 
 1. FME workspace that merges parcel polygons assigned with EBIR attributes with gas and electric meter xy points.
 

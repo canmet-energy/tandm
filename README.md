@@ -7,7 +7,7 @@ The TaNDM method was developed using a business analysis process to address chal
 
 The resulting TaNDM method is a bottom-up spatial and engineering method that links building, and measured utility data at the parcel scale, aggregating it by building vintage and category/type to neighborhood and municipal scales. Privacy is ensured by verifying that reported meter and energy data meets privacy compliance thresholds.
 
-NRCan is pleased to make the TaNDM method open source and available for download, inspection, and modification under a GNU Lesser General Public License 3.0.  It is posted here on Github as a library of descriptions, tables, templates, diagrams, scripts and supporting documentation. Notably, this Github repository also contains the TaNDM 2021 Inventory Reports for Kelowna laid out in [human-readable/ print-ready](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna2021_INVENTORY_Github_Reading_Printing_Final.xlsx) and [machine-readable/ analysis-ready](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna_2021_INVENTORY_Github_AnalysisReady_Final.xlsx) formats.
+NRCan is pleased to make the TaNDM method open source and available for download, inspection, and modification under a GNU Lesser General Public License 3.0.  It is posted here on Github as a library of descriptions, tables, templates, diagrams, scripts and supporting documentation. Notably, this Github repository also contains the TaNDM 2021 Inventory Reports for Kelowna laid out in [human-readable/ print-ready](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna2021_INVENTORY_Github_Reading_Printing_FinalUpdated.xlsx) and [machine-readable/ analysis-ready](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna_2021_INVENTORY_Github_AnalysisReady_Final_Updated.xlsx) formats.
 
 Additionally, two peer reviewed journal articles are in press. The pre-print of the TaNDM Inventory article is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129478). The validation article will be posted here when available.
 
@@ -310,11 +310,11 @@ Reports are available for download in two formats:
 
 Analysis-ready version, one column header:
 
-[TaNDM 2021 Inventory Reports for Kelowna, B.C. - Analysis Ready Version, .xlsx](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna_2021_INVENTORY_Github_AnalysisReady_Final.xlsx)
+[TaNDM 2021 Inventory Reports for Kelowna, B.C. - Analysis Ready Version, .xlsx](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna_2021_INVENTORY_Github_AnalysisReady_Final_Updated.xlsx)
 
 Reading and printing version, multiple column headers:
 
-[TaNDM 2021 Inventory Reports for Kelowna, B.C. - Reading, Printing Version, .xlsx](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna2021_INVENTORY_Github_Reading_Printing_Final.xlsx)
+[TaNDM 2021 Inventory Reports for Kelowna, B.C. - Reading, Printing Version, .xlsx](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna2021_INVENTORY_Github_Reading_Printing_FinalUpdated.xlsx)
 
 The TaNDM energy and emissions inventory reports for Kelowna will also be posted to the B.C. Ministry of Environment’s Community Energy and Emissions Inventory page available [here](https://www2.gov.bc.ca/gov/content/environment/climate-change/data/ceei).
 

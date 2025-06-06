@@ -35,6 +35,9 @@ df = pd.read_csv(r"Inputs/CEEI_Extract_Data.txt", sep='|', dtype={'0':'str','1':
 headers = pd.read_csv(r"Inputs/BIR-headers.txt", sep='|', nrows=0).columns
 df.columns = headers
 
+#Note: if you are importing BIR information from a different source and/or format, the fields that are needed for this script are: Jur, Roll, TotalArea, FloorArea, FloorAreaType, StrataUnitArea, Occupancy, PrimAUC, MCC, UnitOfMeasure, BiuldingType, NosUnits. 
+
+
 #add leading zeroes to the BCA Roll number
 df.loc[df['Jur'] == 214, 'Roll'] = df['Roll'].astype(str).str.zfill(6)
 df.loc[df['Jur'] == 217, 'Roll'] = df['Roll'].astype(str).str.zfill(8)

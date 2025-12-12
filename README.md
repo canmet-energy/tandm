@@ -10,7 +10,7 @@ The resulting TaNDM method is a bottom-up spatial and engineering method that li
 NRCan is pleased to make the TaNDM method open source and available for download, inspection, and modification under a GNU Lesser General Public License 3.0.  It is posted here on Github as a library of descriptions, tables, templates, diagrams, scripts and supporting documentation. Notably, this Github repository also contains the TaNDM 2021 Inventory Reports for Kelowna laid out in [human-readable/ print-ready](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna2021_INVENTORY_Github_Reading_Printing_FinalUpdated.xlsx) and [machine-readable/ analysis-ready](https://github.com/canmet-energy/tandm/blob/main/Kelowna_2021_inventory/TaNDM_Kelowna_2021_INVENTORY_Github_AnalysisReady_Final_Updated.xlsx) formats. UPDATE: A minor update was made to these files in May, 2025 to correct a data quality issue for one neighbourhood in Inventory Report 5. If you previously downloaded the inventories we suggest re-downloading the updated csv files.
 
 
-Additionally, two peer reviewed journal articles are in press. The pre-print of the TaNDM Inventory article is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129478). The validation article will be posted here when available.
+Additionally, two peer reviewed journal articles are in press. The TaNDM Inventory article is under review by Sustainable Cities and Society journal. The validation article is being prepared for submission to Building and Environment. Links to both articles will be posted here when available. 
 
 ![image info](images/data_relationships.png)
 
@@ -88,7 +88,7 @@ Following a business analysis approach, a user story exercise was conducted to i
 
 A swim lane diagram was iteratively developed over the course of the project to promote understanding of the TaNDM demonstration approach. The final version focusing on inventory development can be seen here:
 
-![image info](https://github.com/canmet-energy/tandm/blob/main/images/TaNDMWF_InvSept2024.png)
+![image info](https://github.com/canmet-energy/tandm/blob/main/images/TaNDM_Workflow_Updated.png)
 
 
 # Prepare Parcel and Buildings Data
